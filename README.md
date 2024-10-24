@@ -2,6 +2,10 @@
 
 ![My Image](https://github.com/chetanp2002/Call-Center-Data-Analysis-/blob/main/Live%20demo/Demo.png)
 
+
+[Watch the video](https://github.com/chetanp2002/Call-Center-Data-Analysis-/blob/main/Live%20demo/Dashboard%20Presentation.mp4)
+
+
 This project focuses on analyzing call-center data to extract insights regarding performance, efficiency, and customer satisfaction. By leveraging various data analysis techniques, we aim to provide recommendations for improving call-center operations.
 
 ## Project Objectives
@@ -32,7 +36,7 @@ The dataset used in this project contains information on:
 - Agents with higher average resolution rates tended to handle fewer calls per hour.
 - Customer satisfaction was closely linked with the call resolution time and agent behavior.
 
-[Watch the video](https://github.com/chetanp2002/Call-Center-Data-Analysis-/blob/main/Live%20demo/Dashboard%20Presentation.mp4)
+
 ## Project Overview
 
 ## Conclusion
