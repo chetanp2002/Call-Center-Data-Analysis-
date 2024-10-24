@@ -32,7 +32,7 @@ The dataset used in this project contains information on:
 - Agents with higher average resolution rates tended to handle fewer calls per hour.
 - Customer satisfaction was closely linked with the call resolution time and agent behavior.
 
-[![presentation]("https://github.com/chetanp2002/Call-Center-Data-Analysis-/blob/main/Live%20demo/Demo.png")]("<video controls src="https://github.com/chetanp2002/Call-Center-Data-Analysis-/blob/main/Live%20demo/Dashboard%20Presentation.mp4" title="C:\Users\Rahul\Desktop\Data Science\Data Analyst\Power BI\Call Center Data Analysis\Dashboard Presentation.mp4"></video>")
+[Watch the video](https://github.com/chetanp2002/Call-Center-Data-Analysis-/blob/main/Live%20demo/Dashboard%20Presentation.mp4)
 ## Project Overview
 
 ## Conclusion
