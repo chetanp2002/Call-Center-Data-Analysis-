@@ -2,6 +2,10 @@
 
 ![My Image](https://github.com/chetanp2002/Call-Center-Data-Analysis-/blob/main/Live%20demo/Demo.png)
 
+![My Image](https://github.com/chetanp2002/Call-Center-Data-Analysis-/blob/main/Live%20demo/Demo2.png)
+
+![My Image](https://github.com/chetanp2002/Call-Center-Data-Analysis-/blob/main/Live%20demo/Demo3.png)
+
 
 [Watch the video](https://github.com/chetanp2002/Call-Center-Data-Analysis-/blob/main/Live%20demo/Dashboard%20Presentation.mp4)
 
